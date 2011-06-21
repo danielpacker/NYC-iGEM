@@ -1,0 +1,1 @@
+In order to extracellularly display proteins on the yeast cell surface, the protein is fused to this Aga2 protein via a flexible linker. Once secreted, the Aga2 protein binds to the Aga1 protein on the yeast surface, anchoring the fusion onto the cell surface. Because the Aga2 protein must bind Aga1 to display, the chassis yeast strain must also express Aga1.

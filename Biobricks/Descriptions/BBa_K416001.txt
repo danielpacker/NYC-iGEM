@@ -1,0 +1,1 @@
+This is a 15 amino acid flexible peptide linker protein domain that is useful for creating functional fusion proteins. The linker is to be fused in frame in between two protein domains, separating the two domains so that they each retain original functions yet will be physically connected.
